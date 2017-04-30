@@ -177,5 +177,3 @@ while checking:
 		alert(str(len(socks))+" socks proxies until now.")
 		alert(str(len(toCheck))+" remaining proxies.")
 		alert(str(len(threading.enumerate())-1)+" active threads...")
-
-working.extend(socks)
